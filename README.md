@@ -40,7 +40,6 @@
 
 ## 📦 <span style="color: #00aaff;">Содержимое сборки </span>
 - <span style="color: #4CAF50;">**Драйверы**</span> - для всех устройств Unisoc (ADB/Fastboot/Port)
--
 ## 🎮 **Управление сборкой**
 <div style="background: #1a1a1a; padding: 15px; border-radius: 10px; border-left: 5px solid #00ff00;">
 <strong>🎯 Основной интерфейс:</strong> <code>AutoTool.exe</code><br>
