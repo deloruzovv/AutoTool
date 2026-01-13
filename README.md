@@ -43,7 +43,7 @@
 -
 ## 🎮 **Управление сборкой**
 <div style="background: #1a1a1a; padding: 15px; border-radius: 10px; border-left: 5px solid #00ff00;">
-<strong>🎯 Основной интерфейс:</strong> <code>ADB.BAT</code><br>
+<strong>🎯 Основной интерфейс:</strong> <code>AutoTool.exe</code><br>
 <span style="color: #cccccc;">Меню на основе Windows CMD с множеством функций автоматизации</span>
 </div>
 
